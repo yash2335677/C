@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
 int A;
 if (scanf("%d", &A) ==1) {
